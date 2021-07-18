@@ -1,6 +1,6 @@
 <h2 align="center">Hello!</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jash139&count_private=true&show_icons=true&title_color=1E7F8E&text_color=3F4B4D&icon_color=1E7F8E" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jash139&count_private=true&show_icons=true&theme=react" alt="Github Stats" />
 </p>
 
 <p align="center">
