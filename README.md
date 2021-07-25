@@ -9,7 +9,7 @@
     </a>
 </p>
 
-<p>I am Ayush Acharya, a Computer Science undergraduate at BIT Mesra. My interests include Software Development and Data Structures & Algorithms. I am skilled in C, C++, Vue / Vuex, Nuxtjs, React / Redux, JavaScript, Nodejs and MongoDB with Mongoose. I am also focused on creating meaningful experiences for my projects through UI /UX Design.</p>
+<p>I am Ayush Acharya, a Computer Science undergraduate at BIT Mesra. My interests include Software Development and Data Structures & Algorithms. I am skilled in C, C++, Vue / Vuex, Nuxtjs, React / Redux, JavaScript, Nodejs and MongoDB with Mongoose. I am also focused on creating meaningful experiences for my projects through UI / UX Design.</p>
 
 How to reach me:
 * [Portfolio](https://ayushacharya.netlify.app)
