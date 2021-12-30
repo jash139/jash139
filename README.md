@@ -1,4 +1,6 @@
-<h2 align="center">Hello!</h2>
+<div align="center">
+    <img src="https://github.com/jash139/jash139/blob/main/images/github-banner.png" alt="Hello! I'm Ayush Acharya." />
+</div>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jash139&count_private=true&show_icons=true&theme=react" alt="Github Stats" />
 </p>
