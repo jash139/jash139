@@ -20,9 +20,11 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jash139&count_private=true&show_icons=true&theme=react" alt="Github Stats" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jash139&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&ring=1E7F8E&background=20232A&fire=FFFFFF&sideNums=FFFFFF&dates=C7C7C7&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&stroke=CECECE&sideLabels=FFFFFF)](https://git.io/streak-stats)
 </p>
+
+<div align="center">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jash139&theme=prussian&date_format=M%20j%5B%2C%20Y%5D&ring=1E7F8E&background=20232A&fire=FFFFFF&sideNums=FFFFFF&dates=C7C7C7&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&stroke=CECECE&sideLabels=FFFFFF)](https://git.io/streak-stats)
+</div>
 
 <h2>How to reach me:</h2>
 
