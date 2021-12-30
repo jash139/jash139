@@ -24,6 +24,8 @@
 
 <h2>How to reach me:</h2>
 
-* [Portfolio](https://ayushacharya.netlify.app)
-* [LinkedIn](https://www.linkedin.com/in/ayush-acharya-5a2178203)
-* [Email](mailto:ayushacharya1309@gmail.com)
+* [<img src="https://github.com/jash139/jash139/blob/main/images/portfolio-icon.png" alt="Portfolio" />](https://ayushacharya.netlify.app)
+* [<img src="https://github.com/jash139/jash139/blob/main/images/email-icon.png" alt="Email" />](mailto:ayushacharya1309@gmail.com)
+* [<img src="https://github.com/jash139/jash139/blob/main/images/linkedin-icon.png" alt="Linkedin" />](https://www.linkedin.com/in/ayush-acharya-5a2178203)
+* [<img src="https://github.com/jash139/jash139/blob/main/images/github-icon.png" alt="Github" />](https://github.com/jash139)
+* [<img src="https://github.com/jash139/jash139/blob/main/images/instagram-icon.png" alt="Instagram" />](https://www.instagram.com/_ayushacharya/)
