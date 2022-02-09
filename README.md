@@ -32,7 +32,7 @@
 [<img src="https://github.com/jash139/jash139/blob/main/images/email-icon.png" alt="Email" height="50" width="50" />](mailto:ayushacharya1309@gmail.com)
 &nbsp;
 &nbsp;
-[<img src="https://github.com/jash139/jash139/blob/main/images/linkedin-icon.png" alt="Linkedin" height="50" width="50" />](https://www.linkedin.com/in/ayush-acharya-5a2178203)
+[<img src="https://github.com/jash139/jash139/blob/main/images/linkedin-icon.png" alt="Linkedin" height="50" width="50" />](https://www.linkedin.com/in/ayushacharya13)
 &nbsp;
 &nbsp;
 [<img src="https://github.com/jash139/jash139/blob/main/images/github-icon.png" alt="Github" height="50" width="50" />](https://github.com/jash139)
