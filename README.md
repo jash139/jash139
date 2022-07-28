@@ -18,7 +18,7 @@
 
 <h2>Github Stats</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jash139&count_private=true&show_icons=true&theme=react" alt="Github Stats" />
+<a href="https://ayushacharya.netlify.app/"><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=jash139&count_private=true&show_icons=true&theme=react" alt="Github Stats" /></a>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jash139&theme=dark&date_format=j%20M%5B%20Y%5D&background=20232A&border=FFFFFF&stroke=FFFFFF&ring=36E4FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=DDDDDD&currStreakLabel=36E4FF&sideLabels=969696&dates=969696" alt="Github Streak" />
 
 <h2>How to reach me:</h2>
