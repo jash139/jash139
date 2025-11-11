@@ -8,10 +8,22 @@
     </a>
 </p>
 
-<h2>Github Stats</h2>
+<p>
+    Hey there! I'm Ayush Acharya — a Software Engineer by profession.
+    <br />
+    <br />
+    Currently, I’m part of the incredible team at Typeface, an AI-driven company where we're building smart, scalable solutions that make a real impact. Before this, I had the chance to grow and contribute at Adobe and Fastenal, where I deepened my understanding of building reliable, user-focused software.
+    <br />
+    <br />
+    What drives me? Crafting clean, efficient, and scalable code — and the thrill of solving tough problems with simple, elegant solutions. I love digging into data structures and algorithms, and I’m always looking for smarter ways to build better products.
+    <br />
+    <br />
+    I'm also drawn to the creative side of tech. Whether it's wireframing in Figma or refining user flows, I enjoy designing intuitive experiences that feel just right. Freelancing has given me the chance to partner with some great people, bringing their ideas to life through thoughtful design and code.
+    <br />
+    <br />
+    If you're passionate about tech, design, or just want to chat about ideas — let’s connect! I’m always up for a great conversation or a new collaboration.
+</p>
 
-<a href="https://ayushacharya.netlify.app/"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=jash139&count_private=true&show_icons=true&theme=react" alt="Github Stats" /></a>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jash139&theme=dark&date_format=j%20M%5B%20Y%5D&background=20232A&border=FFFFFF&stroke=FFFFFF&ring=36E4FF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=DDDDDD&currStreakLabel=36E4FF&sideLabels=969696&dates=969696" alt="Github Streak" />
 
 <h2>How to reach me:</h2>
 
@@ -25,6 +37,3 @@
 &nbsp;
 &nbsp;
 [<img src="https://github.com/jash139/jash139/blob/main/images/github-icon.png" alt="Github" height="50" width="50" />](https://github.com/jash139)
-&nbsp;
-&nbsp;
-[<img src="https://github.com/jash139/jash139/blob/main/images/instagram-icon.png" alt="Instagram" height="50" width="50" />](https://www.instagram.com/_ayushacharya/)
